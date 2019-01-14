@@ -21,31 +21,17 @@ comments: true
 TEL:17601466064
 MAIL:rickcgrs@gmail.com
 
-
-<iframe src="https://ghbtns.com/github-btn.html?user=TaylanTatli&repo=Moon&type=star&count=true&size=large" frameborder="0" scrolling="0" width="160px" height="30px"></iframe>    
  
 ## Preview
 
 {% capture images %}
-	https://rickyesppg.github.io/assets/img/xw.png
+	https://rickyesppg.github.io/moon-theme/assets/img/xw.png
 	 
 {% endcapture %}
 {% include gallery images=images caption="Screenshots of Moon Theme" cols=3 %}
 
 ---
  
-#### url
-
-Used to generate absolute urls in `sitemap.xml`, `feed.xml`, and for generating canonical URLs in `<head>`. When developing locally either comment this out or use something like `http://localhost:4000` so all assets load properly. *Don't include a trailing `/`*.
-
-Examples:
-
-{% highlight yaml %}
-url: http://taylantatli.me/Moon
-url: http://localhost:4000
-url: //cooldude.github.io
-url:
-{% endhighlight %}
 
  
  
