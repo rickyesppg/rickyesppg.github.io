@@ -24,10 +24,10 @@ MAIL:rickcgrs@gmail.com
 ## Preview
 
 {% capture images %}
-	https://rickyesppg.github.io/assets/img/xw.png
+	https://rickyesppg.github.io/assets/img/xiaowa.png
 	 
 {% endcapture %}
-{% include gallery images=images caption="Screenshots of Moon Theme" cols=3 %}
+ 
 
 ---
  
