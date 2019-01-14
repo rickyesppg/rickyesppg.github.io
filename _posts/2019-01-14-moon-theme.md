@@ -23,10 +23,10 @@ MAIL:rickcgrs@gmail.com
  
 ## Preview
 
-{% capture images %}
-	https://rickyesppg.github.io/assets/img/xiaowa.png
+ ![avatar](/assets/img/xiaowa.png)
+	
 	 
-{% endcapture %}
+ 
  
 
 ---
