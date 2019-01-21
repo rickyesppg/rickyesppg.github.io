@@ -9,7 +9,7 @@ tag:
 comments: true
 ---
 
-使用class-dump有时不能导出全部头文件问题<br>
+使用class-dump有时不能导出全部头文件问题<br>  
 
 1、在手机端安装Cydia插件classdump-dyld<br>
 2、连接手机后cycript -p xxx 连接app<br>
