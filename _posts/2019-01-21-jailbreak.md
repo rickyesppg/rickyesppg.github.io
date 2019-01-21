@@ -1,9 +1,12 @@
 ---
-layout: page
-title: 小瓦
-tags: [about, Jekyll, theme, moon]
-date: 2018-01-21
-comments: false
+layout: post
+title:  class-dump
+date:   2019-01-21
+excerpt: "class-dump"
+project: true
+tag:
+- blog
+comments: true
 ---
 
 使用class-dump有时不能导出全部头文件问题
