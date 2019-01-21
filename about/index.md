@@ -6,6 +6,6 @@ date: 2019-01-21
 comments: false
 ---
     
-<center> rick</b>  hello world</center>
+<center> rick<br>  hello world</center>
 
  
