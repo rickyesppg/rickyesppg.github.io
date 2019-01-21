@@ -6,6 +6,6 @@ date: 2019-01-21
 comments: false
 ---
     
-<center><a href="http://taylantatli.github.io/Moon"><b>rick</b></a> hello world</center>
+<center> rick</b>  hello world</center>
 
  
