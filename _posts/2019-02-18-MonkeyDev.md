@@ -14,7 +14,7 @@ comments: true
  2、hook原来类的方法。<br>
  CHOptimizedMethod2(self, id, QADImageSplashViewController, initWithNibName, id, arg1, bundle, id, arg2) {<br>
 
-    return nil;<br>
+return nil;<br>
  }<br>
  
  //CHOptimizedMethod2(optimization, return_type, class_type, name1, type1, arg1, name2, type2, arg2)<br>
@@ -31,7 +31,7 @@ comments: true
  CHConstructor {<br>
     CHLoadLateClass(QADImageSplashViewController);<br>
  
-    CHHook2(QADImageSplashViewController, initWithNibName, bundle);<br>
+CHHook2(QADImageSplashViewController, initWithNibName, bundle);<br>
  }<br>
  
 
