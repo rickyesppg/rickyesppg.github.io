@@ -15,10 +15,10 @@ comments: true
 Suzhou ZhongXinHuaFu Intelligent Technology Co., Ltd.
 </center>
  
- [隐私服务协议](/assets/file/yql.html)
-TEL:+86 15062062416 <br>
-MAIL:zhongxinhuafu@126.com  
 
+TEL:+86 15062062416 <br>
+MAIL:zhongxinhuafu@126.com  <br>
+ [隐私服务协议](/assets/file/yql.html)
 
 
 ## Preview
