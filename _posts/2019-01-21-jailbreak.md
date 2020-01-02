@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  class-dump
-date:   2019-01-21
+date:   2018-01-13
 excerpt: "解决class-dump导不全头文件问题。"
  
 tag:
