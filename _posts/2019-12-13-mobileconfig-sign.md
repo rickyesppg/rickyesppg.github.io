@@ -1,7 +1,7 @@
 ---
 layout: post
 title: mobileconfig 签名
-date:   2019-12-13
+date:   2017-12-13
 excerpt: "mobileconfig 签名"
 project: true
 tag:
