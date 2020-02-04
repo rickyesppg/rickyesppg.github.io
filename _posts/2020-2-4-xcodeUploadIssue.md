@@ -16,7 +16,7 @@ comments: true
 </center>
  
 今天遇到you must be an admin or technical user in order to deliver content or metadata. (1070)问题。<br>
-解决办法:在App Store Connect中把自己icloud的账号添加给用户职能中去，至少是开发技术人员权限。
+解决办法:在App Store Connect中把自己账号添加给用户职能中去（如果多账号的话），至少是开发技术人员权限。
 
  
 
