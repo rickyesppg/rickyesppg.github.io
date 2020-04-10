@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  鲸道
+title:  鲸道美食
 date:   2020-04-10
 excerpt: "鲸道美食"
 project: true
