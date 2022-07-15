@@ -1,0 +1,11 @@
+{
+    "applinks":{
+      "apps":[],
+      "details":[
+         {
+               "appID":"AAN6DF5KWQ.com.yigeyi.wholesale",
+                "paths": [ "*" ]
+         }
+      ]
+    }
+}
