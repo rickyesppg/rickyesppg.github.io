@@ -19,7 +19,7 @@ MAIL:rickcgrs@gmail.com
  
 ## Preview
 
- ![avatar](/assets/img/xiaowa.png)
+ ![avatar](/assets/img/xiaowa2.png)
 	
 	 
  
