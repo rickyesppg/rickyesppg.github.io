@@ -26,7 +26,7 @@ MAIL:rick88lu2003@yahoo.com   <br>
 
 ## Preview
 
- ![avatar](/assets/img/looklockdown.PNG)
+ ![avatar](/assets/img/looklockdown.png)
 
  
 	
