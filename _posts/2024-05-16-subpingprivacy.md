@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Privacy Policy
+title:  SubPing Privacy Policy
 date:   2024-05-16
 excerpt: "Privacy Policy"
 project: true
