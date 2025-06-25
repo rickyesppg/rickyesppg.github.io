@@ -80,7 +80,7 @@ If you have any questions or concerns about this Privacy Policy or our data prac
 
 简介
 
-欢迎使用 订查。我们致力于保护您的隐私。本隐私政策解释了当您使用我们的应用和服务时，我们如何收集、使用和披露您的信息。
+欢迎使用 叮喳。我们致力于保护您的隐私。本隐私政策解释了当您使用我们的应用和服务时，我们如何收集、使用和披露您的信息。
 
 我们收集的信息
 
