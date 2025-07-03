@@ -20,7 +20,7 @@ jobs:
       # 2. 调用接口抓取最新汇率
       - name: Fetch latest rates
         env:
-          API_KEY: ${{ secrets.EXCHANGE_API_KEY }}   # 仓库 Settings → Secrets 设置
+          API_KEY: ${{ secrets.API_KEY }}   # 仓库 Settings → Secrets 设置
         run: |
           curl -sSL "https://api.exchangerate.host/live?access_key=${API_KEY}" \
             -o abc.json
