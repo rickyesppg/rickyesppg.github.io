@@ -1,0 +1,35 @@
+name: Update Exchange Rates
+
+# 触发方式
+on:
+  # ① 定时：每天 UTC 0:00
+  schedule:
+    - cron: '0 0 * * *'
+  # ② 手动：Actions 页面可点击 Run workflow
+  workflow_dispatch:
+
+jobs:
+  update-rates:
+    runs-on: ubuntu-latest
+
+    steps:
+      # 1. 检出仓库
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      # 2. 调用接口抓取最新汇率
+      - name: Fetch latest rates
+        env:
+          API_KEY: ${{ secrets.EXCHANGE_API_KEY }}   # 仓库 Settings → Secrets 设置
+        run: |
+          curl -sSL "https://api.exchangerate.host/live?access_key=${API_KEY}" \
+            -o abc.json
+
+      # 3. 若文件有变化则提交
+      - name: Commit & push changes
+        uses: EndBug/add-and-commit@v9
+        with:
+          author_name: "github-actions[bot]"
+          author_email: "actions@github.com"
+          message: "chore: update exchange rates"
+          add: "abc.json"
