@@ -31,5 +31,5 @@ jobs:
         with:
           author_name: "github-actions[bot]"
           author_email: "actions@github.com"
-          message: "chore: update exchange rates"
+          message: "abc"
           add: "abc.json"
