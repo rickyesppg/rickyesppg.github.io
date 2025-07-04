@@ -7,6 +7,9 @@ on:
     - cron: '0 0 * * *'
   # ② 手动：Actions 页面可点击 Run workflow
   workflow_dispatch:
+  
+permissions:        # ⬅️ 新增
+  contents: write   # ⬅️ 关键，允许 push
 
 jobs:
   update-rates:
