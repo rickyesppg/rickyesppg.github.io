@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Privacy Policy
-date:   2024-09-09
+date:   2026-10-13
 excerpt: "Privacy Policy"
 project: true
 tag:
@@ -22,7 +22,7 @@ Privacy Policy
 
 Introduction
 
-Welcome to DocTuck. We are committed to protecting your privacy. This Privacy Policy explains how we collect, use, and disclose your information when you use our app and services.
+We are committed to protecting your privacy. This Privacy Policy explains how we collect, use, and disclose your information when you use our app and services.
 
 Information We Collect
 
@@ -80,7 +80,7 @@ If you have any questions or concerns about this Privacy Policy or our data prac
 
 简介
 
-欢迎使用 DocTuck。我们致力于保护您的隐私。本隐私政策解释了当您使用我们的应用和服务时，我们如何收集、使用和披露您的信息。
+我们致力于保护您的隐私。本隐私政策解释了当您使用我们的应用和服务时，我们如何收集、使用和披露您的信息。
 
 我们收集的信息
 
